@@ -6,7 +6,7 @@ A Unity project demonstrating persistent data storage using PlayerPrefs.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/IkireziDivine01/PlayerPrefs_Unity.git
    ```
 
 2. **Open in Unity**
