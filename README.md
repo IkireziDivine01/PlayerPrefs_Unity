@@ -1,5 +1,3 @@
-# PlayerPrefs_Unity
-
 # PlayerPrefs Data Manager
 
 A Unity project demonstrating persistent data storage using PlayerPrefs.
