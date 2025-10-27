@@ -15,7 +15,7 @@ A Unity project demonstrating persistent data storage using PlayerPrefs.
    - Open the project
 
 3. **Run the scene**
-   - Navigate to `Assets/Scenes/PlayerPrefsScene`
+   - Navigate to `Assets/Scenes/PlayerPrefScene`
    - Double-click to open the scene
    - Press Play ▶️
 
@@ -77,3 +77,12 @@ playtime = PlayerPrefs.GetFloat("Playtime", 0f);             // Default: 0f
 1. Click "Reset"
 2. All data clears to defaults (Player, 0, 0f)
 3. Restart to confirm data was deleted from disk
+
+## Where Data is Saved
+Windows: Registry
+Mac: ~/Library/Preferences
+Android: SharedPreferences
+iOS: NSUserDefaults
+Data persists between game sessions automatically!
+
+<img width="916" height="436" alt="image" src="https://github.com/user-attachments/assets/c0fe214c-bfc2-40ca-8cc4-8d701e95f684" />
