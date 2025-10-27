@@ -2,6 +2,23 @@
 
 A Unity project demonstrating persistent data storage using PlayerPrefs.
 
+## Quick Start
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   ```
+
+2. **Open in Unity**
+   - Open Unity Hub
+   - Click "Add" and select the cloned folder
+   - Open the project
+
+3. **Run the scene**
+   - Navigate to `Assets/Scenes/PlayerPrefsScene`
+   - Double-click to open the scene
+   - Press Play ▶️
+
 ## How It Works
 
 ### Data Storage
